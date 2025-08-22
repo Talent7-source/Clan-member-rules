@@ -46,3 +46,4 @@ All members are expected to adhere to the following rules to maintain a positive
 
 ---
 *Failure to comply with these rules may result in disciplinary action, up to and including removal from the clan.*
+<img src="https://github.com/Talent7-source/Clan-member-rules/blob/main/IMG_20240122_223322.png?style="border-radius: 10px;"/>
