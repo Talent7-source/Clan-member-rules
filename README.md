@@ -1,0 +1,2 @@
+# Clan-member-rules
+Rules
